@@ -1,4 +1,4 @@
-# @bitovi/n8n-nodes-embeddings-ollama
+# n8n-nodes-embeddings-ollama
 
 This repo contains [N8N](https://n8n.io/) node for embedding Ollama with options for `keepAlive`, etc.
 
